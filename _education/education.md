@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Education"
 excerpt: "A list of publications"
 collection: publications
 ---
