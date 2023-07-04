@@ -27,11 +27,13 @@ Publications
 * **Xianhao Jin** and Francisco Servant. ["A cost-efficient approach to building in continuous integration."](https://jxianhao.github.io/files/ICSE20.pdf) Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering. 2020.
 * **Xianhao Jin** and Francisco Servant. ["What edits are done on the highly answered questions in stack overflow? An empirical study."](https://jxianhao.github.io/files/MSR19.pdf) 2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR). IEEE, 2019.
 * **Xianhao Jin** and Francisco Servant. ["The hidden cost of code completion: Understanding the impact of the recommendation-list length on its efficiency."](https://jxianhao.github.io/files/MSR18.pdf) Proceedings of the 15th International conference on mining software repositories. 2018.
+<br/><br/>
 
 Education
 ======
 - Ph.D. Computer and Information Science @ Virginia Tech   *(August 2017 - May 2022)*
 - B.Eng. Software Engineering @ Tongji University  *(August 2013 - June 2017)*
+<br/><br/>
 
 Experience
 ======
