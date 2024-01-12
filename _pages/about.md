@@ -19,6 +19,7 @@ Recent News
 
 Publications
 ======
+* **Xianhao Jin**， Yifei Feng, Chen Wang, Yang Liu, Yongning Hu, Yufei Gao, Kun Xia and Luchuan Guo. ["PipelineAsCode: A CI/CD Workflow Management System through Configuration Files at ByteDance."](https://jxianhao.github.io/files/PaC.pdf) 2024 IEEE international conference on software analysis, evolution and reengineering (SANER). IEEE, 2024.
 * **Xianhao Jin** and Francisco Servant. ["HybridCISave: A Combined Build and Test Selection Approach in Continuous Integration."](https://jxianhao.github.io/files/TOSEM23.pdf) ACM Transactions on Software Engineering and Methodology 32.4 (2023): 1-39.
 * **Xianhao Jin** and Francisco Servant. ["Which builds are really safe to skip? Maximizing failure observation for build selection in continuous integration."](https://jxianhao.github.io/files/JSS22.pdf) Journal of Systems and Software 188 (2022): 111292.
 * **Xianhao Jin** and Francisco Servant. ["What helped, and what did not? An Evaluation of the Strategies to Improve Continuous Integration."](https://jxianhao.github.io/files/ICSE21.pdf) 2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE). IEEE, 2021.
