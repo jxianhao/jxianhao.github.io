@@ -12,14 +12,15 @@ This is Xianhao Jin's personal website. I was a Ph.D. student at [Virgina Tech](
 
 Recent News
 ======
-1. [12/2022] Our paper "HybridCISave: A Combined Build and Test Selection Approach in Continuous Integration" is  accepted to TOSEM 2023!
-2. [07/2022] I joined Bytedance as a software engineer, backend and infrastructure!
-3. [05/2022] I received my Ph.D. degree from Virgina Tech!
+1. [12/2023] Our paper "PipelineAsCode: A CI/CD Workflow Management System through Configuration Files at ByteDance" is accepted to SANER 2024, industrial track!
+2. [12/2022] Our paper "HybridCISave: A Combined Build and Test Selection Approach in Continuous Integration" is accepted to TOSEM 2023!
+3. [07/2022] I joined Bytedance as a software engineer, backend and infrastructure!
+4. [05/2022] I received my Ph.D. degree from Virgina Tech!
 <br/><br/>
 
 Publications
 ======
-* **Xianhao Jin**， Yifei Feng, Chen Wang, Yang Liu, Yongning Hu, Yufei Gao, Kun Xia and Luchuan Guo. ["PipelineAsCode: A CI/CD Workflow Management System through Configuration Files at ByteDance."](https://jxianhao.github.io/files/PaC.pdf) 2024 IEEE international conference on software analysis, evolution and reengineering (SANER). IEEE, 2024.
+* **Xianhao Jin**, Yifei Feng, Chen Wang, Yang Liu, Yongning Hu, Yufei Gao, Kun Xia and Luchuan Guo. ["PipelineAsCode: A CI/CD Workflow Management System through Configuration Files at ByteDance."](https://jxianhao.github.io/files/PaC.pdf) 2024 IEEE international conference on software analysis, evolution and reengineering (SANER). IEEE, 2024.
 * **Xianhao Jin** and Francisco Servant. ["HybridCISave: A Combined Build and Test Selection Approach in Continuous Integration."](https://jxianhao.github.io/files/TOSEM23.pdf) ACM Transactions on Software Engineering and Methodology 32.4 (2023): 1-39.
 * **Xianhao Jin** and Francisco Servant. ["Which builds are really safe to skip? Maximizing failure observation for build selection in continuous integration."](https://jxianhao.github.io/files/JSS22.pdf) Journal of Systems and Software 188 (2022): 111292.
 * **Xianhao Jin** and Francisco Servant. ["What helped, and what did not? An Evaluation of the Strategies to Improve Continuous Integration."](https://jxianhao.github.io/files/ICSE21.pdf) 2021 IEEE/ACM 43rd International Conference on Software Engineering (ICSE). IEEE, 2021.
